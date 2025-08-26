@@ -1,0 +1,14 @@
+// ${DATE}
+// g++ ${GPPVER}
+
+// CSES Problem Set
+// Task ${TASKNUM}: ${TASKNAME}
+// ${LINK}
+
+#include <iostream>
+
+using std::cout;
+
+int main() {
+  return 0;
+}
